@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\Multiplos-de-8-hasta-500\proyecto9.9\proyecto9.9\bin\Debug\proyecto9.9.exe.config
+D:\Programas\Cursos\C# ya\Multiplos-de-8-hasta-500\proyecto9.9\proyecto9.9\bin\Debug\proyecto9.9.exe
+D:\Programas\Cursos\C# ya\Multiplos-de-8-hasta-500\proyecto9.9\proyecto9.9\bin\Debug\proyecto9.9.pdb
+D:\Programas\Cursos\C# ya\Multiplos-de-8-hasta-500\proyecto9.9\proyecto9.9\obj\Debug\proyecto9.9.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\Multiplos-de-8-hasta-500\proyecto9.9\proyecto9.9\obj\Debug\proyecto9.9.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\Multiplos-de-8-hasta-500\proyecto9.9\proyecto9.9\obj\Debug\proyecto9.9.exe
+D:\Programas\Cursos\C# ya\Multiplos-de-8-hasta-500\proyecto9.9\proyecto9.9\obj\Debug\proyecto9.9.pdb
